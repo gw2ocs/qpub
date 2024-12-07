@@ -1,0 +1,19 @@
+{
+  "name": "qpub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "diacritics": "github:andrewrk/node-diacritics",
+    "dotenv": "^16.0.3",
+    "pg": "^8.8.0",
+    "twitch-js": "^2.0.0-beta.45",
+    "twitchps": "^1.6.0"
+  }
+}
